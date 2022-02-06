@@ -1,7 +1,7 @@
 # solver2021#!/usr/local/bin/python3
 # solver2021.py : 2021 Sliding tile puzzle solver
 #
-# Code by: Himanshu Hansaria hhansar Shubham Bipin Kumar sbipink Arunima Shukla arushuk
+# Code by: Shubham Bipin Kumar 
 #
 # Based on skeleton code by D. Crandall & B551 Staff, September 2021
 #
