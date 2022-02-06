@@ -1,7 +1,6 @@
 # SeekTruth.py : Classify text objects into two categories
 #
-# Code by Shubham Bipin Kumar (sbipink) , Himanshu Hansaria (hhansar) Abhinav Sinha (sinhabhi)
-#
+# Code by Shubham Bipin Kumar (sbipink) 
 # Based on skeleton code by D. Crandall, October 2021
 #
 
