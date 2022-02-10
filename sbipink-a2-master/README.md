@@ -3,15 +3,13 @@
 
 <br>
 
-###### Name: Himanshu Hansaria, Shubham Bipin Kumar, Abhinav Sinha
-###### Email: *hhansar@iu.edu, sbipink@iu.edu, sinhabhi@iu.edu*
-<br>
+
 
 ### AIM
 ***To practice with game playing and probability.***
 
 ***
-### [Part 1: Raichu](https://github.iu.edu/cs-b551-fa2021/hhansar-sbipink-sinhabhi-a2/tree/master/part1)
+### [Part 1: Raichu]
 
 ***
 
