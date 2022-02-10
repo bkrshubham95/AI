@@ -1,5 +1,4 @@
-# hhansar-sbipink-sinhabhi-a3
-a3 created for hhansar-sbipink-sinhabhi
+
 
 ### [Part 1: Part-of-speech tagging](https://github.iu.edu/cs-b551-fa2021/hhansar-sbipink-sinhabhi-a3)
 ***
